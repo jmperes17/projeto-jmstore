@@ -1,2 +1,2 @@
 # projeto-jmstore
-Projeto da loja fantasia JmSports 
+Ecommerce JmSports - Sports Store Goods 
